@@ -1,7 +1,7 @@
 # html-examples
 If you're a newbie at HTML, this'll help you get started.
 
-## What is HTML? Why should I program in it?
+## What is HTML? Why should I use it in my day-to-day life?
 HTML stands for **H**yper**T**ext **M**arkup **L**anguage and is used in areas of web development, specifically, page structuring.
 
 As to why you **should** program in it is really up to you and your preferences, but, what I can tell you is:
